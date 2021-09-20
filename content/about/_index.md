@@ -3,7 +3,7 @@ cascade:
   headless: true
 description: |
   Professor at Duke University and Educator at RStudio
-show_header: true
+show_header: false
 sidebar_left: true
 title: About Mine Çetinkaya-Rundel
 ---

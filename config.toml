@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/mine.jpg"
+  sharing_image = "/img/mine2.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "minebocek"
 
@@ -86,6 +86,10 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "mailto:mc301@duke.edu"
+  [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/mine-cetinkaya-rundel"
@@ -124,20 +128,30 @@ enableEmoji = true
     url = "/project/"
     weight = 2
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 3
-  [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
+    weight = 3
+  [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publication/"
+    weight = 4
+  [[menu.header]]
+    name = "Talks"
+    title = "Talks"
+    url = "/talk/"
     weight = 5
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "http://citizen-statistician.com/"
-    weight = 4
+    weight = 6
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/mcr-cv.pdf"
+    weight = 7
 
   # Configure footer
   [[menu.footer]]
@@ -150,11 +164,6 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]

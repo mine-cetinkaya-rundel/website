@@ -1,7 +1,7 @@
 ---
-author: Mine Çetinkaya-Rundel
+author: The R Markdown Team @RStudio
 cascade:
-  author: Mine Çetinkaya-Rundel
+  author: The R Markdown Team @RStudio
   show_author_byline: true
   show_comments: false
   show_post_date: true

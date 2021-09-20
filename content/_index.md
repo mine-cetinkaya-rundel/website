@@ -15,12 +15,12 @@ description: I am a Professor of the Practice and the Director of Undergraduate
   teaching statistics and data science with R and RStudio.
 image_left: false
 images:
-- img/mine.jpg
+- img/mine.png
 show_action_link: true
 show_social_links: true
-subtitle: Professor of the Practice + Director of Undergraduate Studies
+subtitle: Duke University + RStudio
 text_align_left: true
-title: Mine Çetinkaya-Rundel
+title: Mine Çetinkaya-Rundel, PhD
 type: home
 ---
 
