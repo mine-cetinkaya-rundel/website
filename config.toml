@@ -1,4 +1,4 @@
-baseURL = "http://mine-cr.com/"
+baseURL = "https://mine-cr.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Mine Çetinkaya-Rundel"
