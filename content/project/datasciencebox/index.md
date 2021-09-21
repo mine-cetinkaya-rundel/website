@@ -1,13 +1,20 @@
 ---
+title: Data Science in a Box
+subtitle: Open-source course materials for an introductory data science curriculum
 author: Mine Çetinkaya-Rundel
-categories:
-- R
-- data science
-- teaching
 date: "2020-01-01"
-draft: false
 excerpt: How can we effectively and efficiently teach data science to students with little to no background in computing and statistical thinking? How can we equip them with the skills and tools for reasoning with various types of data and leave them wanting to learn more? This introductory data science course is our (working) answer to this question.
+
+draft: false
 layout: single
+
+categories:
+- projects
+tags:
+- rstats
+- data-science
+- dsbox
+
 links:
 - icon: door-open
   icon_pack: fas
@@ -25,11 +32,6 @@ links:
   icon_pack: fab
   name: community
   url: https://join.slack.com/t/dsboxworkspace/shared_invite/zt-vvjh8ovb-dCy31PATijOrdaz9oVGvVQ
-subtitle: Open-source course materials for an introductory data science curriculum
-tags:
-- rstats
-- data-science
-title: Data Science in a Box
 ---
 
 ### <img src = "featured.png" width="100" align = "left"> [Data Science in a Box](https://datasciencebox.org/) is a repository for open-source course materials for a semester-long, college-level, introductory data science course that teaches R.

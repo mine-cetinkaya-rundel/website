@@ -1,9 +1,10 @@
 ---
 title: Teaching
 description: |
-  You can find a list of all courses and workshops I've taught on this page.
-  (This page is currently under construction. For a full list of the projects 
-  I'm involved with, see my CV.)
+  All courses and workshops I've taught with links to course websites and source 
+  code for course materials that are openly licensed. (This page is currently 
+  under construction. For a full list of courses and workshops I've taught, 
+  see my CV.)
 author: "Mine Çetinkaya-Rundel"
 show_post_thumbnail: true
 show_author_byline: false
@@ -15,9 +16,10 @@ layout: list-sidebar
 sidebar: 
   title: Teaching
   description: |
-    You can find a list of all courses and workshops I've taught on this page.
-    (This page is currently under construction. For a full list of the projects 
-    I'm involved with, see my CV.)
+    All courses and workshops I've taught with links to course websites and source 
+    code for course materials that are openly licensed. (This page is currently 
+    under construction. For a full list of courses and workshops I've taught, 
+    see my CV.)
   author: ""
   text_link_label: ""
   text_link_url: ""

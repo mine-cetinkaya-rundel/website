@@ -1,24 +1,25 @@
 ---
+title: Preparing to Teach
+subtitle: Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science
 author: Mine Çetinkaya-Rundel
-categories:
-- teaching
-- statistics
-- data-science
 date: "2018-01-01"
-draft: false
 excerpt: Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science.
+
+draft: false
 layout: single
+
+categories:
+- projects
+tags:
+- statistics-education
+- data-science-education
+- teaching
+
 links:
 - icon: door-open
   icon_pack: fas
   name: website
   url: https://preparingtoteach.org/
-subtitle: Workshop to prepare graduate students for a role as undergraduate faculty responsible for teaching statistics and data science
-tags:
-- statistics
-- data-science
-- rstats
-title: Preparing to Teach
 ---
 
 ### <img src = "featured.png" width="100" align = "left"> [Preparing to Teach](https://preparingtoteach.org/) is designed for graduate students and recent PhDs interested in careers in teaching statistics and data science.

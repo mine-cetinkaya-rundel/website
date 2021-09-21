@@ -1,13 +1,23 @@
 ---
+title: OpenIntro
+subtitle: Our mission is to make educational products that are free, transparent, and lower barriers to education
 author: Mine Çetinkaya-Rundel
-categories:
-- R
-- data science
-- teaching
 date: "2018-01-01"
-draft: false
 excerpt: OpenIntro's mission is to make educational products that are free, transparent, and lower barriers to education. We also feature supporting resources, such as slides, videos, and more.
+
+draft: false
 layout: single
+
+categories:
+- projects
+tags:
+- statistics
+- data-science
+- rstats
+- open-source
+- textbook
+- openintro
+
 links:
 - icon: door-open
   icon_pack: fas
@@ -21,12 +31,6 @@ links:
   icon_pack: fas
   name: package
   url: https://openintrostat.github.io/openintro/
-subtitle: Our mission is to make educational products that are free, transparent, and lower barriers to education
-tags:
-- statistics
-- data-science
-- rstats
-title: OpenIntro
 ---
 
 ### <img src = "featured.png" width="120" align = "left"> [OpenIntro](https://openintro.org/) offers open-source and free textbooks for introductory statistics and data science curricula at the high school and undergraduate levels, as well as supporting resources like slides, videos, and more.

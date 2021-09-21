@@ -1,15 +1,19 @@
 ---
 title: "STA 313 - Advanced Data Visualization"
 subtitle: "Duke University"
-excerpt: "STA 313 - Advanced Data Visualization at Duke University<br><br>Teaching in Fall 2021"
-date: 2021-09-01
 author: "Mine Çetinkaya-Rundel"
+date: 2021-09-01
+excerpt: "STA 313 - Advanced Data Visualization at Duke University<br><br>Teaching in Fall 2021"
+
 draft: false
+featured: true
+layout: single
+
 categories:
-  - course
-  - data-visualization
-# layout options: single or single-sidebar
-layout: single  
+- course
+tags:
+- data-visualization
+
 links:
 - icon: home
   icon_pack: fas
