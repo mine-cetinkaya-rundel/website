@@ -1,27 +1,39 @@
 ---
-author: Mine Çetinkaya-Rundel
-cascade:
-  layout: single-series
-  sidebar:
-    author: Mine Çetinkaya-Rundel
-    description: "Sometimes you want a souped-up series- a bundle of related pages
-      \nmeant to be read in sequence. This section is like a blog series, \nminus
-      the blog.\n"
-    show_author_byline: true
-    show_post_date: true
-    show_sidebar_adunit: true
-    text_contents_label: On this page
-    text_link_label: ""
-    text_link_url: ""
-    text_series_label: Outline
-    title: Teaching
-description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
-  to be read in sequence. This section is like a blog series, \nminus the blog.\n"
-layout: list-sidebar
+title: Teaching
+description: |
+  You can find a list of all courses and workshops I've taught on this page.
+  (This page is currently under construction. For a full list of the projects 
+  I'm involved with, see my CV.)
+author: "Mine Çetinkaya-Rundel"
+show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
-show_post_thumbnail: true
-subtitle: A collection, minus the blog.
-thumbnail_left: true
-title: Teaching
+show_post_time: false
+layout: list-sidebar
+
+# for list-sidebar layout
+sidebar: 
+  title: Teaching
+  description: |
+    You can find a list of all courses and workshops I've taught on this page.
+    (This page is currently under construction. For a full list of the projects 
+    I'm involved with, see my CV.)
+  author: ""
+  text_link_label: ""
+  text_link_url: ""
+  show_sidebar_adunit: false # show ad container
+
+# set up common front matter for all individual pages inside project/
+cascade:
+  type: blog
+  show_author_byline: false
+  show_post_date: false
+  show_comments: false # see site config to choose Disqus or Utterances
+  # for single-sidebar layout only
+  sidebar:
+    text_link_label: View all courses and workshops
+    text_link_url: /teaching/
+    show_sidebar_adunit: true # show ad container
 ---
+
+** No content below YAML for the teaching _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside teaching/. You may still override any of these by changing them in a page's front matter.**
