@@ -1,9 +1,7 @@
 ---
 title: Publications
 description: |
-  All publications with links to source code (where available). 
-  (This page is currently under construction. For a full list of my publications, 
-  see my CV.)
+  All publications with links to source code where available.
 author: "Mine Çetinkaya-Rundel"
 date: 2021-09-21
 
