@@ -1,7 +1,6 @@
 ---
-title: Mine Çetinkaya-Rundel, PhD
-subtitle: |
-  Professor of the Practice + Director of Undergraduate Studies
+title: Mine Çetinkaya-Rundel
+subtitle: ""
 action_label: Read more &rarr;
 action_link: /about
 action_type: text
