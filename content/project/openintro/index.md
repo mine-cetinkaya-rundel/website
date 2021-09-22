@@ -7,6 +7,7 @@ excerpt: OpenIntro's mission is to make educational products that are free, tran
 
 draft: false
 layout: single
+featured: true
 
 categories:
 - projects

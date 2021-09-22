@@ -7,6 +7,7 @@ excerpt: How can we effectively and efficiently teach data science to students w
 
 draft: false
 layout: single
+featured: true
 
 categories:
 - projects
