@@ -20,7 +20,7 @@ intro: |
   
   I primarily work on developing open-educational resources and software for modern statistics and data science education as well as pedagogies for enhancing the student experience in data science and statistics courses. I also work on research projects that aim to assess the effectiveness of these approaches with respect to learning and retention. My computing language of choice is R, though I'm always interested in learning about how educators teaching different languages approach the same challenges. At any given point I have numerous projects active in this area. If you're a student wanting to work with me or a potential collaborator, I'd love to [hear from you](/contact/).
 
-  ## Open education
+  ## Open educational resources
   
   I believe in building open-source, open-access resources for education. I have co-authored four open-source statistics textbooks as part of the OpenIntro project at the introductory college and advanced high school level. I am also the creator and maintainer of [Data Science in a Box](https://datasciencebox.org/) and I have been developing and teaching various massive open online courses, including the popular [Statistics with R](https://www.coursera.org/specializations/statistics) specialization on Coursera. Materials for all courses and workshop I've taught are also openly licensed. You can find them on my [teaching page](/teaching/).
   
