@@ -31,6 +31,18 @@ intro: |
   ## Consulting and training
   
   I enjoy working with research and industry teams on solving challenges (particularly those related to R) and providing training. Previous talks and workshops I've delivered can be found here and here, respectively. If you're interested in setting up a consulting or a training session with me, send me an email [here](mailto:mc301@duke.edu).
+  
+  ## Honors and Awards
+  
+  - The Robert V. Hogg Award For Excellence in Teaching Introductory Statistics, 2021.  
+  - Young Academy of Scotland Elected Member, 2020.  
+  - Teacher of the Year Nominee. University of Edinburgh, 2020.  
+  - American Statistical Association Fellow, 2019.  
+  - International Statistical Institute Elected Membership, 2019.  
+  - Harvard Pickard Award, 2018.  
+  - ASA Waller Education Award, 2016.  
+  - Best Paper Award JSM 2015 Section on Teaching Statistics in the Health Sciences.  
+  - David and Janet Vaughan Brooks Award for Teaching Excellence. Duke University, 2014.  
 
 show_outro: false
 outro: |
