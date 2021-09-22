@@ -17,7 +17,7 @@ links:
   url: http://www2.stat.duke.edu/courses/Fall18/sta112.01/
 - icon: github
   icon_pack: fab
-  name: Fall 2018 - GitHub
+  name: Fall 2018 - Source
   url: https://github.com/sta112-f18
 - icon: home
   icon_pack: fas
@@ -25,7 +25,7 @@ links:
   url: http://www2.stat.duke.edu/courses/Fall17/sta112.01/
 - icon: github
   icon_pack: fab
-  name: Fall 2017 - GitHub
+  name: Fall 2017 - Source
   url: https://github.com/Sta112-F17
 - icon: home
   icon_pack: fas
@@ -33,7 +33,7 @@ links:
   url: http://www2.stat.duke.edu/courses/Fall17/sta112.01/
 - icon: github
   icon_pack: fab
-  name: Fall 2017 - GitHub
+  name: Fall 2017 - Source
   url: https://github.com/Sta112-F17
 - icon: home
   icon_pack: fas
@@ -41,7 +41,7 @@ links:
   url: https://www2.stat.duke.edu/courses/Fall15/sta112.01/
 - icon: github
   icon_pack: fab
-  name: Fall 2015 - GitHub
+  name: Fall 2015 - Source
   url: https://github.com/mine-cetinkaya-rundel/sta112_f15
 - icon: home
   icon_pack: fas

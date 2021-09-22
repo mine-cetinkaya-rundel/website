@@ -17,7 +17,7 @@ links:
   url: http://www2.stat.duke.edu/courses/Spring18/Sta199/
 - icon: github
   icon_pack: fab
-  name: Spring 2018 - GitHub
+  name: Spring 2018 - Source
   url: https://github.com/Sta199-S18
 ---
 

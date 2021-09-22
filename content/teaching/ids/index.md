@@ -17,7 +17,7 @@ links:
   url: https://introds-2020.netlify.app/
 - icon: github
   icon_pack: fab
-  name: Fall 2020 - GitHub
+  name: Fall 2020 - Source
   url: https://github.com/ids-s1-20
 - icon: home
   icon_pack: fas
@@ -25,7 +25,7 @@ links:
   url: https://introds-2019.netlify.app/
 - icon: github
   icon_pack: fab
-  name: Fall 2019 - GitHub
+  name: Fall 2019 - Source
   url: https://github.com/ids-s1-19
 ---
 

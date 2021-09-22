@@ -21,7 +21,7 @@ links:
   url: http://vizdata.org/
 - icon: github
   icon_pack: fab
-  name: Fall 2021 - GitHub
+  name: Fall 2021 - Source
   url: https://github.com/vizdata-f21
 ---
 
