@@ -11,11 +11,12 @@ description: I am a Professor of the Practice and the Director of Undergraduate
   pedagogy, with an emphasis on computing, reproducible research, student-centered 
   learning, and open-source education. I work on integrating computation into the 
   undergraduate statistics curriculum, using reproducible research methodologies 
-  and analysis of real and complex datasets. In addition to my academic work, 
-  I also work as a Data Scientist and Professional Educator at 
-  [RStudio](http://rstudio.com/), where I focus primarily on education for 
-  open-source R packages as well as building resources and tools for educators 
-  teaching statistics and data science with R and RStudio.
+  and analysis of real and complex datasets. In Fall 2021, I'm teaching STA/ISS 
+  313: Advanced Data Visualization. Find out more about the course 
+  [here](https://www.vizdata.org/)! In addition to my academic position, 
+  I also work with [RStudio](http://rstudio.com/), where I focus primarily on 
+  education for open-source R packages as well as building resources and 
+  tools for educators teaching statistics and data science with R and RStudio.
 image_left: false
 images:
 - img/mine.png
