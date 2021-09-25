@@ -9,7 +9,7 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
 
-  First and foremost, I am an who is educator passionate about meeting learners where they are and understanding how they learn so that I can build better resources, pedagogy, and tooling to support their learning. My main teaching and research interest is statistics and data science education, particularly using R. 
+  First and foremost, I am an educator who is passionate about meeting learners where they are and understanding how they learn so that I can build better resources, pedagogy, and tooling to support their learning. My main teaching and research interests are statistics and data science education, particularly using R. 
   I have been at Duke University since 2011 and I had a brief stint at the University of Edinburgh in 2019-2021. Prior to Duke, I received my PhD in Statistics at UCLA in 2011, under the advisement of [Jan de Leeuw](https://en.wikipedia.org/wiki/Jan_de_Leeuw), and my BS in Actuarial Science at NYU's Stern School of Business in 2004. In between undergraduate and graduate degrees, I worked as a consulting actuary for two years in New York.
   
   ## Statistical Science at Duke
