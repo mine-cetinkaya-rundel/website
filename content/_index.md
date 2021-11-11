@@ -12,7 +12,7 @@ description: I am a Professor of the Practice and the Director of Undergraduate
   learning, and open-source education. I work on integrating computation into the 
   undergraduate statistics curriculum, using reproducible research methodologies 
   and analysis of real and complex datasets. In Fall 2021, I'm teaching STA/ISS 
-  313: Advanced Data Visualization. Find out more about the course 
+  313 - Advanced Data Visualization. Find out more about the course 
   [here](https://www.vizdata.org/)! In addition to my academic position, 
   I also work with [RStudio](http://rstudio.com/), where I focus primarily on 
   education for open-source R packages as well as building resources and 

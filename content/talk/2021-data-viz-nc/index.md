@@ -30,6 +30,10 @@ links:
   icon_pack: fas
   name: Slides
   url: https://bit.ly/dataviz-ncpma
+- icon: github
+  icon_pack: fab
+  name: Source
+  url: https://github.com/mine-cetinkaya-rundel/2021-data-viz-nc
 ---
 
 This talk was delivered as part of 2021 Performance Management Academy for the NC Office of State Budget & Management. The talk focuses on why we visualize data and, through three case studies, gives tips for how to and how not to visualize certain types of data.
