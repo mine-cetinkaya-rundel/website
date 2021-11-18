@@ -6,7 +6,7 @@ summary: Invited
 location: Online
 
 draft: false
-featured: false
+featured: true
 layout: single
 
 date: "2021-08-09T13:30:00Z"
