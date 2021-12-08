@@ -2,7 +2,7 @@
 title: Let them eat cake (first)!
 subtitle: Invited
 author: Mine Çetinkaya-Rundel
-summary: Educational workshop at DiZ
+summary: Invited
 location: Online
 
 draft: false

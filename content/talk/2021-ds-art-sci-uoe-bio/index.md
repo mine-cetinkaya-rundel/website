@@ -2,6 +2,7 @@
 title: The art and science of teaching data science
 subtitle: Invited
 author: Mine Çetinkaya-Rundel
+summary: Invited
 location: Online
 
 draft: false
