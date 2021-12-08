@@ -2,6 +2,7 @@
 title: Coding out loud, Episode 1
 author: Mine Çetinkaya-Rundel & Evan Dragich
 location: Online
+summary: Duke CCT Learning Experience
 
 draft: false
 featured: true
