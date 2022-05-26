@@ -6,7 +6,7 @@ summary: Breakout Session
 location: Online
 
 draft: false
-featured: true
+featured: false
 layout: single
 
 date: "2022-05-23T15:30:00Z"
