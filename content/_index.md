@@ -16,7 +16,7 @@ description: I am a Professor of the Practice and the Director of Undergraduate
   [here](https://sta210-s22.github.io/website/)! In addition to my academic position, 
   I also work with [RStudio](http://rstudio.com/), where I focus primarily on 
   education for open-source R packages as well as building resources and 
-  tools for educators teaching statistics and data science with R and RStudio.
+  tools for educators teaching statistics and data science with R and RStudio. <a rel="me" href="https://fosstodon.org/@minecr">Mastodon</a>
 image_left: false
 images:
 - img/mine.png
