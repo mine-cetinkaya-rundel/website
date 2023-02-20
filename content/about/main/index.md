@@ -14,7 +14,7 @@ intro: |
   
   ## Statistical Science at Duke
   
-  You can find out everything you need to know about majoring in Statistical Science at Duke [here](https://stat.duke.edu/undergraduate). If you would like to meet to discuss degree options in the department, you can book a time to meet with me [here](https://outlook.office365.com/owa/calendar/mc301@duke.edu/pbp/) or send an email to [stat-dus@duke.edu](mailto:stat-dus@duke.edu).
+  You can find out everything you need to know about majoring in Statistical Science at Duke [here](https://stat.duke.edu/undergraduate). If you would like to meet to discuss degree options in the department or send an email to [dus@stat.duke.edu](mailto:dus@stat.duke.edu).
   
   ## Statistics and data science education
   

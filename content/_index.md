@@ -11,9 +11,9 @@ description: I am a Professor of the Practice and the Director of Undergraduate
   pedagogy, with an emphasis on computing, reproducible research, student-centered 
   learning, and open-source education. I work on integrating computation into the 
   undergraduate statistics curriculum, using reproducible research methodologies 
-  and analysis of real and complex datasets. In Fall 2022, I'm teaching STA
-  199 - Introduction to Data Science. Find out more about the course 
-  [here](https://sta210-f22-1.github.io/website/)! In addition to my academic position, 
+  and analysis of real and complex datasets. In Spring 2023, I'm teaching STA
+  313 - Advanced Data Visualization. Find out more about the course 
+  [here](https://vizdata.org)! In addition to my academic position, 
   I also work with [Posit](http://posit.co/), where I focus primarily on 
   education for open-source R packages as well as building resources and 
   tools for educators teaching statistics and data science with R and RStudio. Read more below or find me on <a rel="me" href="https://fosstodon.org/@minecr">Mastodon</a>.
