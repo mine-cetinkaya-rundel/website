@@ -1,7 +1,7 @@
 ---
 title: "STA 112FS - Better Living Through Data Science"
 subtitle: "Duke University"
-excerpt: "STA 112FS - Better Living Through Data Science<br><br>Taught in Fall 2018, Fall 2017, Fall 2015, and Fall 2014"
+excerpt: "STA 112FS - Better Living Through Data Science"
 date: 2018-09-01
 author: "Mine Çetinkaya-Rundel"
 draft: false
