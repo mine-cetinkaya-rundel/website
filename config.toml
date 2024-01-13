@@ -44,6 +44,7 @@ enableEmoji = true
   sharing_image = "/img/mine.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "minebocek"
+  mastodon = "https://fosstodon.org/@minecr"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
