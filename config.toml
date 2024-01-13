@@ -43,8 +43,8 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/mine.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "minebocek"
   mastodon = "https://fosstodon.org/@minecr"
+  bluesky = "https://bsky.app/profile/minecr.bsky.social"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
