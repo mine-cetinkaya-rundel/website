@@ -1,7 +1,7 @@
 ---
 title: "MATH 08077 - Introduction to Data Science"
 subtitle: "University of Edinburgh"
-excerpt: "MATH 08077 - Introduction to Data Science at the University of Edinburgh<br><br>Taught in Fall 2020 and Fall 2019"
+excerpt: "MATH 08077 - Introduction to Data Science at the University of Edinburgh"
 date: 2020-09-01
 author: "Mine Çetinkaya-Rundel"
 draft: false
