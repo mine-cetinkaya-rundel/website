@@ -3,7 +3,7 @@ title: "STA 210 - Regression Analysis"
 subtitle: "Duke University"
 author: "Mine Çetinkaya-Rundel"
 date: 2022-01-06
-excerpt: "STA 210 - Regression Analysis<br><br>Teaching in Spring 2022"
+excerpt: "STA 210 - Regression Analysis"
 
 draft: false
 featured: true
@@ -19,7 +19,7 @@ links:
 - icon: home
   icon_pack: fas
   name: Spring 2022
-  url: https://sta210-s22.github.io/website/
+  url: https://sta210-s22.github.io/website
 - icon: github
   icon_pack: fab
   name: Spring 2022 - Source
