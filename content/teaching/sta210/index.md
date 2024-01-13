@@ -6,7 +6,7 @@ date: 2022-01-06
 excerpt: "STA 210 - Regression Analysis"
 
 draft: false
-featured: true
+featured: false
 layout: single
 
 categories:
