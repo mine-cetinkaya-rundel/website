@@ -10,6 +10,7 @@ categories:
   - data-science
 # layout options: single or single-sidebar
 layout: single  
+featured: true
 links:
 - icon: home
   icon_pack: fas
