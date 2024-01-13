@@ -1,7 +1,7 @@
 ---
 title: "ARTSCI 101 - From Data to Insight"
 subtitle: "Duke University"
-excerpt: "ARTSCI 101 - From Data to Insight at Duke University<br><br>Taught in Summer 2016"
+excerpt: "ARTSCI 101 - From Data to Insight at Duke University"
 date: 2016-06-01
 author: "Mine Çetinkaya-Rundel and Adrienne Aiken Morgan"
 draft: false
@@ -13,16 +13,8 @@ layout: single
 links:
 - icon: home
   icon_pack: fas
-  name: Homepage
+  name: Summer 2016
   url: http://www2.stat.duke.edu/~mc301/ARTSCI101_Su16/
-- icon: file
-  icon_pack: fas
-  name: Syllabus
-  url: https://www2.stat.duke.edu/~mc301/ARTSCI101_Su16/DatatoInsightSyllabus.pdf
-- icon: github
-  icon_pack: fab
-  name: Source
-  url: https://github.com/mine-cetinkaya-rundel/ArtSci101_Su16
 ---
 
 The field of public health seeks to promote the healthiest lives possible of people and
