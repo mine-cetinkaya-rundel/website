@@ -14,7 +14,6 @@ description: I am a Professor of the Practice and the Director of Undergraduate
   and analysis of real and complex datasets. In Spring 2024, I'm teaching 
   [STA 199 - Introduction to Data Science and Statistical Thinking](https://sta199-s24.github.io/) and  
   [STA 313 - Advanced Data Visualization](https://vizdata.org). 
-  In addition to my academic position, 
   Read more below or find me on <a rel="me" href="https://fosstodon.org/@minecr">Mastodon</a>
   and <a href="https://bsky.app/profile/minecr.bsky.social">Bluesky</a>.
 image_left: false
