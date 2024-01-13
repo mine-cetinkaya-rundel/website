@@ -1,8 +1,8 @@
 ---
 title: "STA 199 - Introduction to Data Science"
 subtitle: "Duke University"
-excerpt: "STA 199 - Introduction to Data Science at Duke University<br><br>Taught in Fall 2022"
-date: 2018-01-01
+excerpt: "STA 199 - Introduction to Data Science at Duke University<br><br>Teaching in Spring 2024"
+date: 2024-01-01
 author: "Mine Çetinkaya-Rundel"
 draft: false
 categories:
