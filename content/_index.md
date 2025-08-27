@@ -7,7 +7,8 @@ action_type: text
 description: I am a Professor of the Practice and the Director of Undergraduate 
   Studies at the [Department of Statistical Science](https://stat.duke.edu/) and 
   an affiliated faculty in the [Computational Media, Arts, and Cultures](https://cmac.duke.edu/) 
-  program at Duke University. My work focuses on innovation in statistics and data science 
+  program at Duke University. I am also the Director of the First-Year Experience 
+  in Trinity College of Arts & Sciences. My work focuses on innovation in statistics and data science 
   pedagogy, with an emphasis on computing, reproducible research, student-centered 
   learning, and open-source education. I work on integrating computation into the 
   undergraduate statistics curriculum, using reproducible research methodologies 
