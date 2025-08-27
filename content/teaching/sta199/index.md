@@ -14,6 +14,14 @@ featured: true
 links:
 - icon: home
   icon_pack: fas
+  name: Fall 2025
+  url: https://sta199-f25.github.io
+- icon: home
+  icon_pack: fas
+  name: Fall 2024
+  url: https://sta199-f24.github.io
+- icon: home
+  icon_pack: fas
   name: Spring 2024
   url: https://sta199-s24.github.io
 - icon: home
