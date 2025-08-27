@@ -11,9 +11,9 @@ description: I am a Professor of the Practice and the Director of Undergraduate
   pedagogy, with an emphasis on computing, reproducible research, student-centered 
   learning, and open-source education. I work on integrating computation into the 
   undergraduate statistics curriculum, using reproducible research methodologies 
-  and analysis of real and complex datasets. In Spring 2024, I'm teaching 
-  [STA 199 - Introduction to Data Science and Statistical Thinking](https://sta199-s24.github.io/) and  
-  [STA 313 - Advanced Data Visualization](https://vizdata.org). 
+  and analysis of real and complex datasets. In Fall 2025, I'm teaching 
+  [STA 199 - Introduction to Data Science and Statistical Thinking](https://sta199-f25.github.io/). 
+  My office hours are Fridays 12:45-2:15 pm in Old Chem 211C.
   Read more below or find me on <a rel="me" href="https://fosstodon.org/@minecr">Mastodon</a>
   and <a href="https://bsky.app/profile/minecr.bsky.social">Bluesky</a>.
 image_left: false
